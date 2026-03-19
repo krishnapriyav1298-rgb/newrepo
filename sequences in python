@@ -1,1 +1,4 @@
-
+list,tupple,set
+list=[]-mutable
+tupple=()-immutable
+set={}-mutable
